@@ -1,6 +1,6 @@
 # Todo List React App
 
-This is a simple Todo List application built with React and Vite. It allows users to add, edit, delete, and mark todos as completed.
+This is a simple Todo List application built with React and Vite. It allows users to add, edit, delete, and mark todos as completed. 
 
 ## Live Demo
 
@@ -91,12 +91,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thanks to Anthropic for the AI assistance in creating this README
-- Inspiration from various todo list apps and React tutorials
-
-##Images
+## Images
 
 - <img width="1438" alt="Screenshot 2024-06-30 at 4 12 02 PM" src="https://github.com/05sanjaykumar/Todo-List/assets/132453013/fbda7731-3314-4643-8e73-1be29492226c">
 
